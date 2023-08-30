@@ -1,15 +1,11 @@
 {
   "name": "@xqsit94/vite-react-ts-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter template for React with Vite and TypeScript includes Storybook, Jest, Eslint, Prettier, Husky, and Unocss",
   "author": {
     "name": "xqsit94"
   },
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/xqsit94",
-    "access": "public"
-  },
   "bin": "bin/cli.js",
   "type": "module",
   "scripts": {
